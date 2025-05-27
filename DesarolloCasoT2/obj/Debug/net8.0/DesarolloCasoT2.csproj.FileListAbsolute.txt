@@ -1,0 +1,11 @@
+D:\DesarolloCasoT2\DesarolloCasoT2\bin\Debug\net8.0\DesarolloCasoT2.deps.json
+D:\DesarolloCasoT2\DesarolloCasoT2\bin\Debug\net8.0\DesarolloCasoT2.dll
+D:\DesarolloCasoT2\DesarolloCasoT2\bin\Debug\net8.0\DesarolloCasoT2.pdb
+D:\DesarolloCasoT2\DesarolloCasoT2\obj\Debug\net8.0\DesarolloCasoT2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarolloCasoT2\DesarolloCasoT2\obj\Debug\net8.0\DesarolloCasoT2.AssemblyInfoInputs.cache
+D:\DesarolloCasoT2\DesarolloCasoT2\obj\Debug\net8.0\DesarolloCasoT2.AssemblyInfo.cs
+D:\DesarolloCasoT2\DesarolloCasoT2\obj\Debug\net8.0\DesarolloCasoT2.csproj.CoreCompileInputs.cache
+D:\DesarolloCasoT2\DesarolloCasoT2\obj\Debug\net8.0\DesarolloCasoT2.dll
+D:\DesarolloCasoT2\DesarolloCasoT2\obj\Debug\net8.0\refint\DesarolloCasoT2.dll
+D:\DesarolloCasoT2\DesarolloCasoT2\obj\Debug\net8.0\DesarolloCasoT2.pdb
+D:\DesarolloCasoT2\DesarolloCasoT2\obj\Debug\net8.0\ref\DesarolloCasoT2.dll
