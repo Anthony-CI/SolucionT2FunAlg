@@ -74,7 +74,7 @@ namespace SolucionT2
                                 
         }
 
-        public void RealizarRetiro(decimal MaximoRetiro, decimal ComisionRetiro, decimal saldo)
+        static void RealizarRetiro(decimal MaximoRetiro, decimal ComisionRetiro, decimal saldo)
         {
             decimal retiro = LeerMonto("Ingrese el monto a retirar: S/ ");
 

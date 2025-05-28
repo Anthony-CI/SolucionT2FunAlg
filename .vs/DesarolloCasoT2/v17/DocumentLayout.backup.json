@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{548D946D-FCD8-4397-A228-B307248335C2}|SolucionT2\\SolucionT2.csproj|d:\\desarollocasot2\\soluciont2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{548D946D-FCD8-4397-A228-B307248335C2}|SolucionT2\\SolucionT2.csproj|solutionrelative:soluciont2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF3C9E7-5035-48F4-97D9-8753D9252729}|DesarrolloT2\\DesarrolloT2.csproj|d:\\desarollocasot2\\desarrollot2\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FF3C9E7-5035-48F4-97D9-8753D9252729}|DesarrolloT2\\DesarrolloT2.csproj|solutionrelative:desarrollot2\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cajero.cs",
-              "DocumentMoniker": "D:\\DesarolloCasoT2\\DesarrolloT2\\Cajero.cs",
-              "RelativeDocumentMoniker": "DesarrolloT2\\Cajero.cs",
-              "ToolTip": "D:\\DesarolloCasoT2\\DesarrolloT2\\Cajero.cs",
-              "RelativeToolTip": "DesarrolloT2\\Cajero.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T22:10:59.532Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DesarolloCasoT2\\SolucionT2\\Program.cs",
               "RelativeDocumentMoniker": "SolucionT2\\Program.cs",
-              "ToolTip": "D:\\DesarolloCasoT2\\SolucionT2\\Program.cs*",
-              "RelativeToolTip": "SolucionT2\\Program.cs*",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFwAAAAdAAAAAAAAAA==",
+              "ToolTip": "D:\\DesarolloCasoT2\\SolucionT2\\Program.cs",
+              "RelativeToolTip": "SolucionT2\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA0wEwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T22:07:04.344Z",
+              "WhenOpened": "2025-05-28T00:02:21.204Z",
               "EditorCaption": ""
             }
           ]
