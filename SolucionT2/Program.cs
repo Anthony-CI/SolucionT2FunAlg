@@ -9,16 +9,14 @@ namespace SolucionT2
     class Program
     {
 
-        decimal saldo = 1000.00m; // Saldo inicial
-
-        decimal ComisionRetiro = 8.00m;
-        decimal ComisionDeposito = 2.00m;
-        decimal MaximoRetiro = 500.00m;
-        decimal MaximoDeposito = 1000.00m;
 
         static void Main(string[] args)
         {
+
+            Cajero c = new Cajero();
+
             int opcion;
+            
 
             do
             {
@@ -28,13 +26,25 @@ namespace SolucionT2
                 switch (opcion)
                 {
                     case 1:
-                        RealizarRetiro(500.00m, 8.00m, 1000.00m);
+                        Console.WriteLine("Ingrese cantidad a retirar");
+                        double ret = double.Parse(Console.ReadLine());
+                        c.Retirar(ret);
+                        Console.WriteLine("Ustded ha retirado " + " : " + ret + " " + "Cuenta con un saldo de " + " : " + c.MostrarSaldo());
+                        Console.ReadKey();
+                        Console.Clear();
                         break;
                     case 2:
-                        RealizarDeposito( 1000.00m,  2.00m,  1000.00m);
+                        Console.WriteLine("Ingrese cantidad a depositar");
+                        double depo = double.Parse(Console.ReadLine());
+                        c.Depositar(depo);
+                        Console.WriteLine("Usted depositó" + " : " +depo + "  " + "Cuenta con un saldo de " + " : " + c.MostrarSaldo());
+                        Console.ReadKey();
+                        Console.Clear();
                         break;
                     case 3:
-                        MostrarSaldo(1000.00m);
+                        Console.WriteLine("Su saldo es"+" : " + c.MostrarSaldo());
+                        Console.ReadKey();
+                        Console.Clear();
                         break;
                     case 0:
                         Console.WriteLine("Gracias por usar el cajero automático. ¡Hasta pronto!");
@@ -64,68 +74,6 @@ namespace SolucionT2
                 return opcion;
 
         }
-
-        static decimal LeerMonto(string mensaje)
-        {
-        
-                Console.Write(mensaje);
-                decimal monto = Convert.ToDecimal(Console.ReadLine());
-                return monto;
-                                
-        }
-
-        static void RealizarRetiro(decimal MaximoRetiro, decimal ComisionRetiro, decimal saldo)
-        {
-            decimal retiro = LeerMonto("Ingrese el monto a retirar: S/ ");
-
-            if (retiro <= 0)
-            {
-                Console.WriteLine("El monto debe ser mayor que cero.");
-            }
-            else if (retiro > MaximoRetiro)
-            {
-                Console.WriteLine("No puede retirar más de S/"+ MaximoRetiro);
-            }
-            else if (saldo >= (retiro + ComisionRetiro))
-            {
-                saldo -= (retiro + ComisionRetiro);
-                Console.WriteLine("Ha retirado S/ " + retiro +". Comisión: S/ "+ComisionRetiro +". Saldo actual: S/ " + saldo);
-                //return saldo;
-            }
-            else
-            {
-                Console.WriteLine("Saldo insuficiente para realizar el retiro incluyendo la comisión.");
-            }
-        }
-
-        static void RealizarDeposito(decimal MaximoDeposito,decimal ComisionDeposito, decimal saldo)
-        {
-            decimal deposito = LeerMonto("Ingrese el monto a depositar: S/ ");
-
-            if (deposito <= 0)
-            {
-                Console.WriteLine("El monto debe ser mayor que cero.");
-            }
-            else if (deposito > MaximoDeposito)
-            {
-                Console.WriteLine("No puede depositar más de S/ " + MaximoDeposito);
-            }
-            else if (deposito <= ComisionDeposito)
-            {
-                Console.WriteLine("El monto es demasiado bajo para cubrir la comisión.");
-            }
-            else
-            {
-                saldo += (deposito - ComisionDeposito);
-                Console.WriteLine("Ha depositado S/ " + deposito + ". Comisión: S/ " + ComisionDeposito+ ". Saldo actual: S/ " + saldo);
-            }
-        }
-
-        static void MostrarSaldo(decimal saldo)
-        {
-            Console.WriteLine($"Su saldo actual es: S/ " +saldo);
-        }
-
 
     }
 }

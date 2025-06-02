@@ -4,3 +4,9 @@ D:\DesarolloCasoT2\DesarrolloT2\obj\Debug\DesarrolloT2.csproj.AssemblyReference.
 D:\DesarolloCasoT2\DesarrolloT2\obj\Debug\DesarrolloT2.csproj.CoreCompileInputs.cache
 D:\DesarolloCasoT2\DesarrolloT2\obj\Debug\DesarrolloT2.dll
 D:\DesarolloCasoT2\DesarrolloT2\obj\Debug\DesarrolloT2.pdb
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\DesarrolloT2\bin\Debug\DesarrolloT2.dll
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\DesarrolloT2\bin\Debug\DesarrolloT2.pdb
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\DesarrolloT2\obj\Debug\DesarrolloT2.csproj.AssemblyReference.cache
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\DesarrolloT2\obj\Debug\DesarrolloT2.csproj.CoreCompileInputs.cache
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\DesarrolloT2\obj\Debug\DesarrolloT2.dll
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\DesarrolloT2\obj\Debug\DesarrolloT2.pdb

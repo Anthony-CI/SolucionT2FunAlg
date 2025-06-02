@@ -8,3 +8,13 @@ D:\DesarolloCasoT2\SolucionT2\obj\Debug\SolucionT2.pdb
 D:\DesarolloCasoT2\SolucionT2\bin\Debug\DesarrolloT2.dll
 D:\DesarolloCasoT2\SolucionT2\bin\Debug\DesarrolloT2.pdb
 D:\DesarolloCasoT2\SolucionT2\obj\Debug\SolucionT2.csproj.Up2Date
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\SolucionT2\bin\Debug\SolucionT2.exe.config
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\SolucionT2\bin\Debug\SolucionT2.exe
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\SolucionT2\bin\Debug\SolucionT2.pdb
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\SolucionT2\bin\Debug\DesarrolloT2.dll
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\SolucionT2\bin\Debug\DesarrolloT2.pdb
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\SolucionT2\obj\Debug\SolucionT2.csproj.AssemblyReference.cache
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\SolucionT2\obj\Debug\SolucionT2.csproj.CoreCompileInputs.cache
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\SolucionT2\obj\Debug\SolucionT2.csproj.Up2Date
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\SolucionT2\obj\Debug\SolucionT2.exe
+D:\UPN\Fundamentos de Algoritmos\SolucionT2FunAlg\SolucionT2\obj\Debug\SolucionT2.pdb
